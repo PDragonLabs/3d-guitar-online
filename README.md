@@ -2,6 +2,8 @@
 
 https://pdragonlabs.github.io/3d-guitar-online/
 
+![Alt text](./3donlineguitar.png)
+
 3D Virtual Guitar Simulator
 A web-based 3D guitar simulator built with Three.js and Tailwind CSS, allowing users to interact with a virtual guitar fretboard, mark and strum notes, play chords, and record sessions. The app features intuitive note visualization, a chord picker, and a responsive interface, making it ideal for guitar enthusiasts and learners.
 Features
